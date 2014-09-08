@@ -1,0 +1,14 @@
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\Data.dll.config
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\Data.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\Data.pdb
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\EntityFramework.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\EntityFramework.xml
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\obj\Debug\Data.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\obj\Debug\Data.pdb
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache

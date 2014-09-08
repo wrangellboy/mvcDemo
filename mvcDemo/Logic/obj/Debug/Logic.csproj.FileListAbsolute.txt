@@ -1,0 +1,16 @@
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\Logic.dll.config
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\Logic.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\Logic.pdb
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\Data.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\EntityFramework.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\Data.pdb
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\EntityFramework.xml
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\obj\Debug\Logic.dll
+E:\Users\John\Documents\Visual Studio 2013\Projects\mvcDemo\Logic\obj\Debug\Logic.pdb

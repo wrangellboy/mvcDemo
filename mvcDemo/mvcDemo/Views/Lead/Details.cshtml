@@ -1,0 +1,57 @@
+﻿@model Data.Models.Lead
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Lead</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LeadUser)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LeadUser)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.PhoneNumber.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PhoneNumber.Number)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.LeadId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

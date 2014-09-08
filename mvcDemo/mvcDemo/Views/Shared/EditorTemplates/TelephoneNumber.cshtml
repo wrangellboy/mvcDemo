@@ -1,0 +1,23 @@
+﻿@model Data.Models.TelephoneNumber
+@{
+    ViewBag.Title = "PhoneNumber";
+}
+
+<h2>Phone Number</h2>
+
+<div class="form-group">
+    @Html.LabelFor(model => model.Number, htmlAttributes: new { @class = "control-label col-md-2" })
+    <div class="col-md-10">
+        @Html.EditorFor(model => model.Number, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.Number, "", new { @class = "text-danger" })
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => model.NumberType, htmlAttributes: new { @class = "control-label col-md-2" })
+    <div class="col-md-10">
+        @Html.EditorFor(model => model.NumberType, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.NumberType, "", new { @class = "text-danger" })
+    </div>
+</div>
+
